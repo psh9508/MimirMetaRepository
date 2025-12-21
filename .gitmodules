@@ -4,3 +4,6 @@
 [submodule "Gateway"]
 	path = Gateway
 	url = https://github.com/psh9508/Gateway.git
+[submodule "MimirSAM"]
+	path = MimirSAM
+	url = https://github.com/psh9508/MimirSAM.git
